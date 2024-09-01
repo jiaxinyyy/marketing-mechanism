@@ -1,7 +1,7 @@
 # marketing-mechanism
-
-Data: https://tianchi.aliyun.com/dataset/56\
+Data: 
+- https://tianchi.aliyun.com/dataset/56  
+- https://www.kaggle.com/datasets/loveall/clicks-conversion-tracking/data
 Tasks:
-
-* Produce User Funnel
-* Calculate Ad fees on per Customer
+- Calculate User Funnel
+- Calculate Customer Acquisition Cost
