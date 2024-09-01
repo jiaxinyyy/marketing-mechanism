@@ -1,5 +1,7 @@
 # marketing-mechanism
-Data: https://tianchi.aliyun.com/dataset/56  
+
+Data: https://tianchi.aliyun.com/dataset/56\
 Tasks:
-- Calculate ROI
-- Calculate Ad fees on per Customer
+
+* Produce User Funnel
+* Calculate Ad fees on per Customer
